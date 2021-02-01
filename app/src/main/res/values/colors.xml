@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0093DD</color>
+    <color name="colorPrimaryDark">#0093DD</color>
+    <color name="light_sky_blue">#0093DD</color>
+    <color name="dark_sky_blue">#0093DD</color>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="colorTextInput">#727272</color>
+    <color name="gray">#f5f5f5</color>
+    <color name="divider_color">#d1d1d1</color>
+    <color name="rating_color">#0093DD</color>
+    <color name="light_gray">#ECECEC</color>
+    <color name="recent_light_gray">#FAFAFA</color>
+
+    <color name="colorAccent">#0093DD</color>
+    <color name="subscription_background">#F6F6F6</color>
+
+    <color name="blue_color">#0093DD</color>
+    <color name="vw_toolbar">#373B3E</color>
+    <color name="divider">#F0F0F0</color>
+    <color name="warning_color">#FF6A79</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#009688</color>
+    <color name="background_color">#28b8dc</color>
+    <color name="light_text_color">#626262</color>
+    <color name="nav_bg">#f5f5f5</color>
+    <color name="dark_text_color">#424242</color>
+    <color name="trans">#00000000</color>
+    <color name="tab_color">#2196F3</color>
+    <color name="duskYellow">#F3B600</color>
+    <color name="lightGrey">#f38d21</color>
+    <color name="sweet_dialog_bg_color">#FFFFFF</color>
+    <color name="primary_green">#6a8136</color>
+    <color name="green">#6AA108</color>
+    <color name="light_green">#bfffc8</color>
+    <color name="light_red">#ffc8c8</color>
+    <color name="primary_red">#FF4444</color>
+    <color name="radio_buttontint_color">#0077b5</color>
+    <color name="percentger_blue">#FFE4F872</color>
+    <color name="button_grey">#E0DCDC</color>
+    <color name="medium_grey">#B2AEAE</color>
+    <color name="profile_bg">#F7F8FD</color>
+    <color name="profile">#E1F5FE</color>
+    <color name="blue">#5C93Ce</color>
+    <color name="light_blue">#73aefa</color>
+    <color name="button_redcolor">#D71920</color>
+    <color name="light_grey">#f3f3f3</color>
+    <color name="dark_grey">#828282</color>
+    <color name="grey">#cfcfcf</color>
+    <color name="light_bluish">#FAFAFA</color>
+    <color name="light_bluis">#EFF3F9</color>
+    <color name="header_color">#212121</color>
+    <color name="very_light_grey">#FAFAFA</color>
+    <color name="more_light_grey">#E0E0E0</color>
+    <color name="very_light_blue">#D3D3FC</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="light_blu">#0093DD</color>
+
+    <color name="fontWhiteEnable">#FFF</color>
+    <color name="fontWhiteDisable">#85FFFFFF</color>
+    <color name="fontBlackEnable">#000000</color>
+
+    <color name="fontBlackDisable">#50000000</color>
+    <color name="dark_chocklate_color">#780C1D</color>
+
+    <color name="random_1">#03DAC6</color>
+    <color name="random_2">#BB86FC</color>
+    <color name="random_3">#FFEBEE</color>
+    <color name="random_4">#F48FB1</color>
+    <color name="random_5">#9FA8DA</color>
+    <color name="random_6">#B3E5FC</color>
+    <color name="random_7">#80CBC4</color>
+    <color name="random_8">#E0F7FA</color>
+    <color name="random_9">#F0F4C3</color>
+    <color name="random_10">#E0E0E0</color>
+    <color name="random_11">#84FFFF</color>
+    <color name="random_12">#FF9E80</color>
+    <color name="random_13">#EDE7F6</color>
+    <color name="random_14">#FF80AB</color>
+
+    <color name="multiple_image_select_primary">#2E7D32</color>
+    <color name="multiple_image_select_primaryDark">#1B5E20</color>
+    <color name="multiple_image_select_primaryLight">#C8E6C9</color>
+    <color name="multiple_image_select_accent">#4CAF50</color>
+    <color name="multiple_image_select_primaryText">#212121</color>
+    <color name="multiple_image_select_secondaryText">#727272</color>
+    <color name="multiple_image_select_divider">#B6B6B6</color>
+    <color name="multiple_image_select_toolbarPrimaryText">#FFFFFF</color>
+    <color name="multiple_image_select_albumTextBackground">#99FFFFFF</color>
+    <color name="multiple_image_select_imageSelectBackground">#000000</color>
+    <color name="multiple_image_select_buttonText">#FFFFFF</color>
+
+    <color name="vw_BgToolBar">#373B3E</color>
+    <color name="vw_BgRv">#191919</color>
+    <color name="vw_BgItem">#353535</color>
+    <color name="vw_ShadowItem">#D0D0D0</color>
+    <color name="vw_BgRvFileDivider">#EEEEEE</color>
+    <color name="defaultcolor">#0093DD</color>
+    <color name="off_white">#f5f5f5</color>
+    <color name="order_primary_color">#FCFFF6</color>
+    <color name="button_background">#0093DD</color>
+    <color name="subs_play_color">#009688</color>
+    <color name="coupon_color">#6D651F</color>
+    <color name="light_sky_color">#F1FAFF</color>
+
+    <color name="colorHighlightBackground">#c2c2c2</color>
+    <color name="colorDarkBackground">#61696c</color>
+    <color name="colorTextPrimary">#444444</color>
+    <color name="thik_yellow">#FFFDE7</color>
+
+    <color name="shimmer_color">#a2878787</color>
+    <color name="shimmer_background_color">#b1b1b1</color>
+    <color name="debit_background_Color">#fff5f6</color>
+    <color name="light_sky_blue_color">#e0ebff</color>
+    <color name="half_day_color">#ff9c1d</color>
+    <color name="paid_holiday_color">#AC3009</color>
+    <color name="absent_color">#F44336</color>
+    <color name="present_color">#62ac13</color>
+
+    <color name="primary">#7AA4D5</color>
+    <color name="primary_dark">#165E8B</color>
+    <color name="accent">#7AA4D5</color>
+    <color name="persian_green_primary">#0DAC8F</color>
+    <color name="persian_green_dark">#0A927A</color>
+    <color name="persian_green_accent">#0A927A</color>
+    <color name="pink_primary">#EB1E63</color>
+    <color name="pink_dark">#C0175C</color>
+    <color name="pink_accent">#C0175C</color>
+    <color name="royal_blue_primary">#4C63E2</color>
+    <color name="royal_blue_dark">#4055BF</color>
+    <color name="royal_blue_accent">#4055BF</color>
+    <color name="purple_primary">#9C28B1</color>
+    <color name="purple_dark">#7A1FA2</color>
+    <color name="purple_accent">#7A1FA2</color>
+    <color name="orange_accent">#F3A62E</color>
+    <color name="indigo">#3E50AE</color>
+    <color name="pink">#FF427C</color>
+    <color name="light_white">#fcfcfc</color>
+
+</resources>
